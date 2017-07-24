@@ -1,0 +1,1000 @@
+ 1002  ls
+ 1003  ls imports/
+ 1004  ls imports/ui
+ 1005  ls imports/api/
+ 1006  ls imports/
+ 1007  ls imports/api/
+ 1008  meteor mongo
+ 1009  ls
+ 1010  ls imports/
+ 1011  ls imports/ui
+ 1012  cd ..
+ 1013  cp -R simple-todos-blaze list-students-blaze
+ 1014  ls
+ 1015  mkdir new
+ 1016  nano new/index.html
+ 1017  ping google.com
+ 1018  cd meteormi/
+ 1019  ls
+ 1020  meteor create simple-todos-blaze
+ 1021  cd simple-todos-blaze
+ 1022  meteor
+ 1023  cd ..
+ 1024  cd list-students-blaze/
+ 1025  meteor
+ 1026  ps aux | grep firefox
+ 1027  kill 30061
+ 1028  ps aux | grep firefox
+ 1029  cd nodejsmi/
+ 1030  ls
+ 1031  cd downloadmi/
+ 1032  ls
+ 1033  mkdir routingmi
+ 1034  cd routingmi/
+ 1035  npm install
+ 1036  node server
+ 1037  ls
+ 1038  ls models/
+ 1039  less models/Article.js 
+ 1040  ls
+ 1041  less package.json 
+ 1042  less app.js
+ 1043  ls
+ 1044  less README.md 
+ 1045  ls node_modules/
+ 1046  cd nodejsmi/downloadmi/
+ 1047  ls
+ 1048  mkdir db
+ 1049  cd db
+ 1050  mkdir EmployeeDB
+ 1051  cd EmployeeDB/
+ 1052  ls
+ 1053  express -c stylus
+ 1054  cd ..
+ 1055  npm install express
+ 1056  cd EmployeeDB/
+ 1057  express -c stylus
+ 1058  cd ..
+ 1059  express -c stylus
+ 1060  npm install -d
+ 1061  node app
+ 1062  ls
+ 1063  node app
+ 1064  npm install -d
+ 1065  ls
+ 1066  node app
+ 1067  node app.js
+ 1068  node app
+ 1069  ls
+ 1070  node app.js
+ 1071  ls
+ 1072  node app
+ 1073  cd ..
+ 1074  mkdir mongo
+ 1075  rmdir mongo
+ 1076  mkdir mongomi
+ 1077  cd mongomi/
+ 1078  git clone git://github.com/madhums/node-express-mongoose-demo.git
+ 1079  ls
+ 1080  npm install
+ 1081  ls
+ 1082  ls node-express-mongoose-demo/
+ 1083  find . -name env*
+ 1084  find . -name env.example
+ 1085  npm start
+ 1086  npm test
+ 1087  cd ..
+ 1088  mkdir examplemi
+ 1089  cd examplemi/
+ 1090  git clone https://github.com/gothinkster/node-express-realworld-example-app.git
+ 1091  ls
+ 1092  cd node-express-realworld-example-app/
+ 1093  ls
+ 1094  npm install
+ 1095  sudo apt-cache search mongodb
+ 1096  apt-get -s install mongodb
+ 1097  less /etc/apt/sources.list
+ 1098  sudo apt-get update
+ 1099  apt-get -s install mongodb
+ 1100  apt-get  install mongodb
+ 1101  sudo apt-get  install mongodb
+ 1102  ls /etc/init.d/
+ 1103  sudo mongod
+ 1104  sudo /etc/init.d/mongodb start
+ 1105  npm run dev
+ 1106  node app
+ 1107  cd ..
+ 1108  mkdir closebracemi
+ 1109  cd closebracemi/
+ 1110  npm update -g express
+ 1111  npm update -g express-generator
+ 1112  express nodetest2
+ 1113  sudo express nodetest2
+ 1114  sudo npm update -g express
+ 1115  ls
+ 1116  sudo npm update -g express-generator
+ 1117  ls
+ 1118  sudo express nodetest2
+ 1119  cd ..
+ 1120  mkdir closebracegitmi
+ 1121  cd closebracegitmi/
+ 1122  git clone https://github.com/cwbuecheler/node-tutorial-2-restful-app.git
+ 1123  ls
+ 1124  cd node-tutorial-2-restful-app/
+ 1125  ls
+ 1126  node app
+ 1127  npm install cookie-parser
+ 1128  node app
+ 1129  npm install body-parser
+ 1130  node app
+ 1131  npm install mongodb
+ 1132  node app
+ 1133  npm install monk
+ 1134  node app
+ 1135  cd ..
+ 1136  git clone https://github.com/mikeyamadeo/node-express-tutorial
+ 1137  ls
+ 1138  cd node-express-tutorial/
+ 1139  ls
+ 1140  node api-server
+ 1141  less package.json 
+ 1142  less api-server.js 
+ 1143  node api-server
+ 1144  cd ..
+ 1145  git clone https://github.com/expressjs/express.git
+ 1146  ls
+ 1147  ls -l
+ 1148  cd express/
+ 1149  ls
+ 1150  npm install
+ 1151  ls
+ 1152  ls examples/
+ 1153  node content-negotiation
+ 1154  node examples/content-negotiation
+ 1155  ls examples
+ 1156  ls mvc
+ 1157  ls examples/mvc
+ 1158  less examples/mvc
+ 1159  ls examples/mvc
+ 1160  ls examples/mvc/index.js 
+ 1161  less examples/mvc/index.js 
+ 1162  ls examples/mvc/
+ 1163  less examples/mvc/db.js 
+ 1164  ls examples/mvc/controllers/
+ 1165  ls examples/mvc/controllers/main
+ 1166  less examples/mvc/controllers/main/index.js 
+ 1167  ls examples/mvc/controllers/main
+ 1168  ls examples/mvc/controllers/
+ 1169  ls examples/mvc/controllers/pet/
+ 1170  les examples/mvc/controllers/pet/index.js 
+ 1171  less examples/mvc/controllers/pet/index.js 
+ 1172  ls examples/mvc/
+ 1173  ls examples/mvc/lib/
+ 1174  less examples/mvc/lib/boot.js 
+ 1175  less examples/mvc/public/
+ 1176  ls examples/mvc/public/
+ 1177  ls examples/mvc/views/
+ 1178  less examples/mvc/views/5xx.ejs 
+ 1179  ls examples/mvc/views/
+ 1180  ls examples/mvc/views/404.ejs 
+ 1181  less examples/mvc/views/404.ejs 
+ 1182  ls
+ 1183  ls examples/
+ 1184  ls examples/hello-world/
+ 1185  less examples/hello-world/
+ 1186  less examples/hello-world/index.js 
+ 1187  less examples/session/index.js 
+ 1188  ls examples/session/
+ 1189  less examples/session/redis.js 
+ 1190  ls examples/static-files/
+ 1191  less examples/static-files/
+ 1192  less examples/static-files/index.js 
+ 1193  ls examples/static-files/public/
+ 1194  ls examples/static-files/public/js/
+ 1195  less examples/static-files/public/js/app.js 
+ 1196  cd ..
+ 1197  cp -R express/ expressmi
+ 1198  cd expressmi/
+ 1199  ls
+ 1200  cd examples/
+ 1201  ls
+ 1202  ls static-files/
+ 1203  ls static-files/public/
+ 1204  ls /home/michel/Pictures/
+ 1205  ls /home/michel/Downloads/*.jpg
+ 1206  ls
+ 1207  ls static-files/
+ 1208  ls static-files/public/
+ 1209  cp /home/michel/Downloads/ex1.jpg static-files/public/
+ 1210  ls route-middleware/
+ 1211  less route-middleware/
+ 1212  less route-middleware/index.js 
+ 1213  cd /home/michel/
+ 1214  ls
+ 1215  mkdir mongodbmi
+ 1216  cd mongodbmi/
+ 1217  curl -O https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-3.4.5.tgz
+ 1218  ls
+ 1219  tar zxvf mongodb-linux-x86_64-3.4.5.tgz 
+ 1220  ls
+ 1221  ls mongodb-linux-x86_64-3.4.5
+ 1222  ls mongodb-linux-x86_64-3.4.5/bin/
+ 1223  ls
+ 1224  mkdir mongodb
+ 1225  cp -R -n mongodb-linux-x86_64-3.4.5 mongodb
+ 1226  cd ..
+ 1227  ls -a
+ 1228  cp .bashrc .bashrc-20170618
+ 1229  nano .bashrc 
+ 1230  ls
+ 1231  ls mongodbmi/
+ 1232  ls mongodbmi/mongodb
+ 1233  ls mongodbmi/mongodb/mongodb-linux-x86_64-3.4.5/
+ 1234  nano .bashrc 
+ 1235  ls
+ 1236  less app.js
+ 1237  ls
+ 1238  less app.js 
+ 1239  ls
+ 1240  ls public/
+ 1241  ls public/images/
+ 1242  find . -name favicon*
+ 1243  mv views/hellworld.jade views/helloworld.jade
+ 1244  ls
+ 1245  ls data/
+ 1246  find . -name mongod
+ 1247  find . -name mongo*
+ 1248  ls node_modules/mongodb-core/
+ 1249  ls node_modules/mongodb
+ 1250  find . -name mongod
+ 1251  ls /home/michel/mongodbmi/mongodb
+ 1252  ls /home/michel/mongodbmi/mongodb/mongodb-linux-x86_64-3.4.5/
+ 1253  cd nodejsmi/downloadmi/
+ 1254  cd express/
+ 1255  ls
+ 1256  node examples/mvc
+ 1257  node examples/static-files/
+ 1258  cd ..
+ 1259  cd expressmi/
+ 1260  node examples/static-files/
+ 1261  node examples/route-middleware/
+ 1262  cd ..
+ 1263  ls
+ 1264  df
+ 1265  cd closebracemi/
+ 1266  ls
+ 1267  npm install -g express-generator
+ 1268  sudo npm install -g express-generator
+ 1269  express nodetest1
+ 1270  express --view=jade nodetest1
+ 1271  cd..
+ 1272  cd ..
+ 1273  rm -r closebracemi/
+ 1274  mkdir closebracemi
+ 1275  cd closebrace
+ 1276  cd closebracemi/
+ 1277  npm install -g express-generator
+ 1278  sudo npm install -g express-generator
+ 1279  express nodetest1
+ 1280  express --view=jade nodetest1
+ 1281  npm install
+ 1282  ls
+ 1283  cd nodetest1/
+ 1284  ls
+ 1285  npm install
+ 1286  mkdir data
+ 1287  npm start
+ 1288  ls
+ 1289  diff app.js app.js-save 
+ 1290  mongod
+ 1291  ls
+ 1292  mongod dbpath=data
+ 1293  mongo
+ 1294  use nodetest1
+ 1295  mongo
+ 1296  cd nodejsmi/downloadmi/
+ 1297  ls
+ 1298  cd node-express-tutorial/
+ 1299  ls
+ 1300  cd ..
+ 1301  cd express
+ 1302  ls
+ 1303  less index.js 
+ 1304  cd ..
+ 1305  cd db
+ 1306  ls
+ 1307  less app.js 
+ 1308  ls
+ 1309  cd nodejsmi/
+ 1310  lls
+ 1311  ls
+ 1312  cd downloadmi/
+ 1313  ls
+ 1314  mkdir expressmi1
+ 1315  cd expressmi1/
+ 1316  cd ..
+ 1317  cd expressmi
+ 1318  ls
+ 1319  less index.js 
+ 1320  cd ..
+ 1321  cd closebracemi/
+ 1322  ls
+ 1323  cd nodetest1/
+ 1324  ls
+ 1325  less app.js
+ 1326  cd ..
+ 1327  ls
+ 1328  cd examplemi/
+ 1329  ls
+ 1330  cd node-express-realworld-example-app/
+ 1331  ls
+ 1332  less app.js 
+ 1333  cd ..
+ 1334  ls
+ 1335  cd node-express-tutorial/
+ 1336  ls
+ 1337  less api-server.js 
+ 1338  cd ..
+ 1339  cd routingmi/
+ 1340  ls
+ 1341  less server.js 
+ 1342  cd ..
+ 1343  mkdir my-webapp
+ 1344  cd my-webapp/
+ 1345  ls
+ 1346  npm init
+ 1347  cat package.json
+ 1348  less package.json 
+ 1349  npm i express express-stormpath cookie-parser csurf jade forms xtend body-parser --save
+ 1350  cd ..
+ 1351  mkdir express2
+ 1352  cd express2
+ 1353  ls
+ 1354  npm install -g express-generator
+ 1355  sudo npm install -g express-generator
+ 1356  express -c stylus express_example
+ 1357  ls
+ 1358  cd express_example/
+ 1359  npm install
+ 1360  ls
+ 1361  DEBUG=express_example:* npm start
+ 1362  cd ..
+ 1363  cd db
+ 1364  cd ..
+ 1365  cd db
+ 1366  ls
+ 1367  npm start
+ 1368  sudo npm start
+ 1369  node app
+ 1370  ls
+ 1371  cd ..
+ 1372  nano allApplications
+ 1373  ifconfig 
+ 1374  nano allApplications
+ 1375  cd ..
+ 1376  ls
+ 1377  nano allApplications 
+ 1378  cd nodejsmi/downloadmi/
+ 1379  ls
+ 1380  cd express4
+ 1381  mkdir express4
+ 1382  cd express4/
+ 1383  npm install --save express
+ 1384  npm install --save express-generator
+ 1385  sudo npm install --save express-generator
+ 1386  express folder_name OR express .
+ 1387  ls
+ 1388  cd folder_name/
+ 1389  ls
+ 1390  npm install
+ 1391  npm start
+ 1392  app.set('view engine', 'ejs');
+ 1393  ls
+ 1394  app.set('views', __dirname + '/views');
+ 1395  cd ..
+ 1396  ls
+ 1397  app.set('views', __dirname + '/views');
+ 1398  ls
+ 1399  cd folder_name/
+ 1400  cd ..
+ 1401  ls
+ 1402  cd closebracemi/
+ 1403  ls
+ 1404  cd nodetest1/
+ 1405  ls
+ 1406  node app
+ 1407  less app.js
+ 1408  node app
+ 1409  npm start
+ 1410  less app.js
+ 1411  ls
+ 1412  cd routes/
+ 1413  ls
+ 1414  less users.js 
+ 1415  less index.js 
+ 1416  lscd ..
+ 1417  cd ..
+ 1418  npm start
+ 1419  sudo ifconfig 
+ 1420  ls
+ 1421  cd data
+ 1422  ps aux | grep mongod
+ 1423  whereis mongo
+ 1424  mongo
+ 1425  use nodetest1
+ 1426  mongo
+ 1427  ls
+ 1428  whereis mongo
+ 1429  cd /usr/bin/mongo
+ 1430  cd /usr/bin/
+ 1431  mongod --dbpath /home/michel/nodejsmi/downloadmi/closebracemi1/nodetest1/data
+ 1432  ls
+ 1433  mongod --dbpath /home/michel/nodejsmi/downloadmi/closebracemi1/nodetest1/data/
+ 1434  mongod --help
+ 1435  mongo --help
+ 1436  mongod --help
+ 1437  mongod --dbpath /home/michel/nodejsmi/downloadmi/closebracemi1/nodetest1/data/
+ 1438  mongod --help
+ 1439  mongod restart
+ 1440  cd /home/michel/
+ 1441  ls
+ 1442  cd nodejsmi/
+ 1443  ls
+ 1444  cd downloadmi/
+ 1445  ls
+ 1446  cd mongomi/
+ 1447  ls
+ 1448  cd node-express-mongoose-demo/
+ 1449  ls
+ 1450  cds
+ 1451  cd
+ 1452  ls
+ 1453  cd Downloads/
+ 1454  ls
+ 1455  cd ..
+ 1456  ls
+ 1457  cd mongodbmi/
+ 1458  ls
+ 1459  cd mongodb-linux-x86_64-3.4.5/
+ 1460  ls
+ 1461  cd bin/
+ 1462  ls
+ 1463  cd ..
+ 1464  ls
+ 1465  ls ../
+ 1466  ls ../nodejsmi/
+ 1467  ls ../nodejsmi/downloadmi/
+ 1468  ls ../nodejsmi/downloadmi/closebraceMI1
+ 1469  ls ../nodejsmi/downloadmi/closebracemi1/
+ 1470  cp -r mo ../nodejsmi/downloadmi/closebracemi1/
+ 1471  cp -r mongodb-linux-x86_64-3.4.5 ../nodejsmi/downloadmi/closebracemi1/
+ 1472  df
+ 1473  cd  ../nodejsmi/downloadmi/closebracemi1/
+ 1474  ls
+ 1475  cd mongodb-linux-x86_64-3.4.5/
+ 1476  ls
+ 1477  cd bin/
+ 1478  ls
+ 1479  ls /home/michel/
+ 1480  ls /home/michel/Public/
+ 1481  ls /home/michel/nodejsmi/downloadmi/
+ 1482  ls /home/michel/nodejsmi/downloadmi/closebracemi1
+ 1483  mongod --dbpath /home/michel/nodejsmi/downloadmi/closebracemi1/nodetest1/data
+ 1484  ls /home/michel/nodejsmi/downloadmi/closebracemi1pm start
+ 1485  mongod --dbpath /home/michel/nodejsmi/downloadmi/closebracemi1/nodetest1/data
+ 1486  cd ..
+ 1487  cd closebracemi
+ 1488  cd nodetest1/
+ 1489  ls
+ 1490  ls views/
+ 1491  ls views/index.jade 
+ 1492  less views/index.jade 
+ 1493  less views
+ 1494  ls views
+ 1495  less views/index.jade 
+ 1496  ls views
+ 1497  cd /home/michel/
+ 1498  ls
+ 1499  cd Public/
+ 1500  ls
+ 1501  cd ..
+ 1502  cd nodejsmi/downloadmi/
+ 1503  ls
+ 1504  cd closebracemi1/
+ 1505  ls
+ 1506  cd nodetest1/data/
+ 1507  pwd
+ 1508  m/home/michel/nodejsmi/downloadmi/closebracemi1/nodetest1/data
+ 1509  mongo
+ 1510  cd ..
+ 1511  npm start
+ 1512  whereis mongod
+ 1513  cd /usr/bin/
+ 1514  mongod stop
+ 1515  sudo mongod stop
+ 1516  sudo mongod --shutdown
+ 1517  whereis mongod
+ 1518  cd /home/michel/mongodbmi/mongodb-linux-x86_64-3.4.5/bin/mongod --shutdown
+ 1519  cd /home/michel/nodejsmi/
+ 1520  ls
+ 1521  cd downloadmi/
+ 1522  ls
+ 1523  cd closebracemi
+ 1524  ls
+ 1525  cd nodetest1/
+ 1526  cd node_modules/
+ 1527  cd ..
+ 1528  ls
+ 1529  cd data/
+ 1530  mongod --shutdown
+ 1531  cd ..
+ 1532  cd closebracemi1/
+ 1533  ls
+ 1534  cd data
+ 1535  ls
+ 1536  cd nodetest1/
+ 1537  ls
+ 1538  cd data
+ 1539  cd ..
+ 1540  npm start
+ 1541  cd .
+ 1542  cd ..
+ 1543  cd closebracemi
+ 1544  ls
+ 1545  cd nodetest1/
+ 1546  npm start
+ 1547  ls
+ 1548  cd nodejsmi/
+ 1549  ls
+ 1550  cd downloadmi/
+ 1551  ls
+ 1552  df
+ 1553  mkdir closebracemi1
+ 1554  cd closebracemi1/
+ 1555  ls
+ 1556  npm install -g express-generator
+ 1557  npm install express-generator
+ 1558  sudo npm install -g express-generator
+ 1559  express nodetest1
+ 1560  less nodetest1/package.json 
+ 1561  history
+ 1562  ls nodetest1/
+ 1563  less nodetest1/package.json 
+ 1564  cd nodetest1/
+ 1565  npm install
+ 1566  mkdir data
+ 1567  ls
+ 1568  npm start
+ 1569  sudo npm start
+ 1570  npm install
+ 1571  npm start
+ 1572  pwd
+ 1573  ls
+ 1574  cd data
+ 1575  pwd
+ 1576  cd ..
+ 1577  cd closebracemi
+ 1578  ls
+ 1579  cd nodetest1/
+ 1580  npm start
+ 1581  cd ..
+ 1582  cd closebracemi1/nodetest1/
+ 1583  npm start
+ 1584  ps aux | grep mongod
+ 1585  mongo
+ 1586  sudo ifconfig 
+ 1587  ping google.com
+ 1588  cd nodejsmi/
+ 1589  ls
+ 1590  cd downloadmi/
+ 1591  ls
+ 1592  cd closebracemi
+ 1593  ls
+ 1594  cd nodetest1/
+ 1595  ls
+ 1596  npm start
+ 1597  cd ..
+ 1598  mkdir mozilla2
+ 1599  cd mozilla2/
+ 1600  nano commentmi
+ 1601  npm install express-generator -g
+ 1602  sudo npm install express-generator -g
+ 1603  express express-locallibrary-tutorial --view=pug
+ 1604  npm install
+ 1605  DEBUG=express-locallibrary-tutorial:* npm start
+ 1606  sudo DEBUG=express-locallibrary-tutorial:* npm start
+ 1607  npm start
+ 1608  SET DEBUG=express-locallibrary-tutorial:* & npm start
+ 1609  ls
+ 1610  cd express-locallibrary-tutorial/
+ 1611  npm install
+ 1612  DEBUG=express-locallibrary-tutorial:* npm start
+ 1613  npm install --save-dev nodemon
+ 1614  DEBUG=express-locallibrary-tutorial:* npm start
+ 1615  DEBUG=express-locallibrary-tutorial:* npm run devstart
+ 1616  hsitory
+ 1617  history
+ 1618  history > history2
+ 1619  ls
+ 1620  ls
+ 1621  less package.json 
+ 1622  nano package.json 
+ 1623  ls
+ 1624  ls bin
+ 1625  ls bin/www 
+ 1626  less bin/www 
+ 1627  ls 
+ 1628  ls views/
+ 1629  less views/index.pug 
+ 1630  ls
+ 1631  ls routes/
+ 1632  less routes/users.js 
+ 1633  nano  routes/users.js 
+ 1634  npm install mongoose --save
+ 1635  ls
+ 1636  less app.js
+ 1637  mongoose
+ 1638  whereis mongoose
+ 1639  ls
+ 1640  find . -name mongoose
+ 1641  ls
+ 1642  cd o
+ 1643  ls node_modules/
+ 1644  mongo
+ 1645  npm install mongoos
+ 1646  npm install mongoose
+ 1647  mongoose
+ 1648  var mongoose = require ("mongoose"9;
+ 1649  mongo
+ 1650  ls node_modules/
+ 1651  mongodb
+ 1652  mongoose
+ 1653  ./node_modules/mongoose
+ 1654  ls node_modules/mongoose/
+ 1655  ls node_modules/mongoose/README.md 
+ 1656  less node_modules/mongoose/README.md 
+ 1657  ls
+ 1658  whereis controller
+ 1659  history > history1
+ 1660  npm install mongoose --save
+ 1661  mongod
+ 1662  ls node_modules/
+ 1663  mongo
+ 1664  ls
+ 1665  cd nodejsmi/
+ 1666  ls
+ 1667  cd downloadmi/
+ 1668  ls
+ 1669  mkdir todoListApi
+ 1670  cd todoListApi/
+ 1671  npm -v
+ 1672  mongo --version
+ 1673  npm init
+ 1674  touch server.js
+ 1675  mkdir api
+ 1676  cd api
+ 1677  cd ..
+ 1678  mkdir api/controllers api/models api/routes
+ 1679  touch api/controllers/todoListController.js api/models/todoListModel.js api/routes/todoListRoutes.js
+ 1680  npm install --save-sev nodemon
+ 1681  npm install express --save
+ 1682  npm run start
+ 1683  rs
+ 1684  npm run start
+ 1685  ls
+ 1686  node server
+ 1687  ls
+ 1688  npm run start
+ 1689  npm start
+ 1690  node server
+ 1691  npm start
+ 1692  cd ..
+ 1693  mkdir mongoosemi
+ 1694  cd mongoosemi/
+ 1695  npm install
+ 1696  node server
+ 1697  mysql -u root -p
+ 1698  cd nodejsmi/downloadmi/
+ 1699  ls
+ 1700  df
+ 1701  mkdir nodemaysqlmi
+ 1702  cd nodemaysqlmi/
+ 1703  cd ..
+ 1704  rm nodemaysqlmi/
+ 1705  rmdir nodemaysqlmi/
+ 1706  mkdir nodemysqlmi
+ 1707  cd nodemysqlmi/
+ 1708  npm install
+ 1709  ls /etc/apt/sources.list
+ 1710  less /etc/apt/sources.list
+ 1711  var mysql      = require('mysql');
+ 1712  var connection = mysql.createConnection({
+ 1713  });
+ 1714  connection.connect();
+ 1715  connection.query('SELECT * from < table name >', function(err, rows, fields) {
+ 1716  });
+ 1717  connection.end();var mysql      = require('mysql');
+ 1718  var connection = mysql.createConnection({
+ 1719  });
+ 1720  connection.connect();
+ 1721  connection.query('SELECT * from < table name >', function(err, rows, fields) {
+ 1722  });
+ 1723  connection.end();
+ 1724  ls
+ 1725  node file_name
+ 1726  sudo apt-get -s install mysql-server
+ 1727  sudo apt-get  install mysql-server
+ 1728  ls /etc/init.d
+ 1729  sudo service mysql status
+ 1730  ls
+ 1731  nano file_name.js 
+ 1732  node file_name 
+ 1733  man npm
+ 1734  ping google.com
+ 1735  sudo apt-get -s install nodejs-legacy
+ 1736  sudo apt-get  install nodejs-legacy
+ 1737  m<
+ 1738  man npm
+ 1739  ls nodejsmi/
+ 1740  df
+ 1741  ls -l
+ 1742  cd nodejsmi/
+ 1743  ls
+ 1744  ls -l
+ 1745  cd downloadmi/
+ 1746  ls
+ 1747  python manage.py runserver
+ 1748  python manage.py migrate
+ 1749  python manage.py runserver
+ 1750  yzthon
+ 1751  python
+ 1752  ls
+ 1753  cd cd pythonmi/
+ 1754  ls
+ 1755  cd pythonmi/
+ 1756  ls
+ 1757  cd djangomi/
+ 1758  df
+ 1759  ls
+ 1760  mkdir download
+ 1761  cd download/
+ 1762  wget -c https://www.djangoproject.com/download/1.11.3/tarball/Django-1.11.3.tar.gz
+ 1763  ping google.com
+ 1764  python -m django --version
+ 1765  ifconfig 
+ 1766  cd ..
+ 1767  ls
+ 1768  django-admin startproject mysitemi
+ 1769  ls
+ 1770  cd mysitemi/
+ 1771  ls
+ 1772  ls mysitemi/
+ 1773  python manage.py startapp polls
+ 1774  ls
+ 1775  ls polls/
+ 1776  less polls/views.py/
+ 1777  less polls/views.py
+ 1778  nano polls/views.py
+ 1779  nano polls/urls.py
+ 1780  nano mysitemi/urls.py 
+ 1781  python manage.py migrate
+ 1782  nano polls/models.py 
+ 1783  nano mysitemi/settings.py 
+ 1784  python manage.py makemigrations polls
+ 1785  python manage.py sqlmigrate polls 0001
+ 1786  python manage.py migrate
+ 1787  python manage.py shell
+ 1788  nano polls/models.py 
+ 1789  python manage.py shell
+ 1790  python manage.py createsuperuser
+ 1791  nano polls/admin.py 
+ 1792  nano polls/views.py 
+ 1793  nano polls/urls.py 
+ 1794  less -N polls/urls.py 
+ 1795  nano polls/urls.py 
+ 1796  nano polls/views.py 
+ 1797  ls polls/
+ 1798  mkdir polls/templates/polls/
+ 1799  cd polls
+ 1800  ls
+ 1801  mkdir templates
+ 1802  cd templates/
+ 1803  mkdir polls
+ 1804  cd polls/
+ 1805  nano index.html
+ 1806  cd ..
+ 1807  nano polls/views.py 
+ 1808  nano polls/templates/polls/detail.html
+ 1809  nano polls/views.py 
+ 1810  nano polls/templates/polls/detail.html
+ 1811  nano polls/urls.py 
+ 1812  nano po<li><a href="{% url 'detail' question.id %}">{{ question.question_text }}</a></li>
+ 1813  nano polls/templates/polls/index.html
+ 1814  nano polls/templates/polls/detaails
+ 1815  nano polls/templates/polls/details.html
+ 1816  nano polls/urls.py 
+ 1817  nano polls/views.py 
+ 1818  nano polls/templates/polls/results.html
+ 1819  nano polls/urls.py 
+ 1820  nano polls/views.py 
+ 1821  df
+ 1822  ifconfig 
+ 1823  less app.js
+ 1824  ls
+ 1825  less app.js
+ 1826  ls routes/
+ 1827  less index
+ 1828  less routes/index.js 
+ 1829  ls
+ 1830  less views/index.jade 
+ 1831  ls views/
+ 1832  less routes/index.js 
+ 1833  ls routes/
+ 1834  ls
+ 1835  ls data/
+ 1836  less views/
+ 1837  ls views/
+ 1838  ls routes/
+ 1839  less routes/index.js 
+ 1840  less app.js
+ 1841  less views/userlist.jade 
+ 1842  ls public/
+ 1843  ls public/javascripts/
+ 1844  less views/index.jade 
+ 1845  ls Public/
+ 1846  cd Public/
+ 1847  ls
+ 1848  cd ..
+ 1849  ls
+ 1850  $cd nodejsmi/
+ 1851  cd nodejsmi/
+ 1852  ls
+ 1853  cd downloadmi/
+ 1854  ls
+ 1855  cd closebracemi1
+ 1856  ls
+ 1857  cd nodetest1/
+ 1858  ls
+ 1859  npm start
+ 1860  cd ..
+ 1861  cd closebracemi
+ 1862  ls
+ 1863  cd nodetest1/
+ 1864  ls
+ 1865  npm start
+ 1866  ls
+ 1867  cd pythonmi/djangomi/
+ 1868  ls
+ 1869  cd mysite
+ 1870  ls
+ 1871  less whereIAm 
+ 1872  less whereami
+ 1873  less whereiam
+ 1874  less whereIAm 
+ 1875  ls
+ 1876  less polls/urls.py 
+ 1877  cd ..
+ 1878  cd mysitemi/
+ 1879  https://docs.djangoproject.com/en/1.10/intro/tutorial02/hishttps://docs.djangoproject.com/en/1.10/intro/tutorial02/tory
+ 1880  history
+ 1881  python manage.py runserver
+ 1882  history
+ 1883  python manage.py runserver
+ 1884  apt-cache search atom
+ 1885  apt-get -s install atom
+ 1886  python manage.py runserver
+ 1887  cd ..
+ 1888  ls
+ 1889  cd mysitemi/
+ 1890  ls
+ 1891  less polls/urls.py 
+ 1892  less polls/views.py
+ 1893  django-admin shell -i ipython
+ 1894  django-admin shell -i bpython
+ 1895  django-admin shell -i python
+ 1896  django-admin
+ 1897  django-admin help
+ 1898  django-admin version
+ 1899  python manage.py shell
+ 1900  ls polls/
+ 1901  less polls/tests.py 
+ 1902  nano polls/tests.py 
+ 1903  python manage.py test polls
+ 1904  nano polls/models.py
+ 1905  python manage.py test polls
+ 1906  nano polls/models.py
+ 1907  python manage.py test polls
+ 1908  nano polls/models.py
+ 1909  python manage.py test polls
+ 1910  nano polls/tests.py 
+ 1911  python manage.py shell
+ 1912  nano polls/views.py
+ 1913  nano polls/tests.py 
+ 1914  nano polls/views.py
+ 1915  nano polls/tests.py 
+ 1916  ls
+ 1917  nano reachmi
+ 1918  ls polls/
+ 1919  mkdir polls/static/
+ 1920  mkdir polls/static/polls
+ 1921  nano polls/static/polls/style.css
+ 1922  nano polls/templates/polls/index.html 
+ 1923  ls
+ 1924  ls /usr/share/
+ 1925  ls /usr/share/images/
+ 1926  ls /usr/share/images/desktop-base/
+ 1927  cp /usr/share/images/desktop-base/spacefun-grub.png .
+ 1928  ls
+ 1929  mkdir images
+ 1930  mv spacefun-grub.png images/
+ 1931  nano polls/static/polls/style.css
+ 1932  ls images/
+ 1933  nano polls/static/polls/style.css
+ 1934  mv images/ polls/
+ 1935  ls polls/
+ 1936  ls polls/images/
+ 1937  nano polls/static/polls/style.css
+ 1938  less polls/admin.py 
+ 1939  nano polls/admin.py 
+ 1940  nano polls/models.py 
+ 1941  ls
+ 1942  nano reachmi 
+ 1943  ifconfig 
+ 1944  ping 192.168.122.116
+ 1945  ls
+ 1946  cd pythonmi/djangomi/
+ 1947  ls
+ 1948  cd mysitemi/
+ 1949  ls
+ 1950  his
+ 1951  t
+ 1952  history
+ 1953  python manage.py startapp school
+ 1954  ls
+ 1955  ls school/
+ 1956  nano school/views.py 
+ 1957  nano school/urls.py
+ 1958  nano mysitemi/urls.py 
+ 1959  nano school/views.py 
+ 1960  nano school/models.py
+ 1961  nano mysitemi/settings.py 
+ 1962  python manage.py migrate
+ 1963  ls
+ 1964  python manage.py migrate
+ 1965  mv school/ schools
+ 1966  rm -r schools/
+ 1967  ls
+ 1968  python manage.py startapp polls
+ 1969  python manage.py startapp schools
+ 1970  ls
+ 1971  python manage.py startapp schools
+ 1972  ls
+ 1973  nano mysitemi/settings.py 
+ 1974  nano mysitemi/urls.py 
+ 1975  ls
+ 1976  ls -a
+ 1977  python manage.py startapp schools
+ 1978  ls
+ 1979  nano schools/views.py 
+ 1980  nano schools/urls.py
+ 1981  ls schools/
+ 1982  nano schools/urls.py
+ 1983  nano mysitemi/urls.py 
+ 1984  python manage.py migrate
+ 1985  nano mysitemi/settings.py 
+ 1986  python manage.py migrate
+ 1987  nano schools/models.py 
+ 1988  nano mysitemi/settings.py 
+ 1989  python manage.py makemigrations schools
+ 1990  nano schools/models.py 
+ 1991  python manage.py sqlmigrate schools 0001
+ 1992  python manage.py migrate
+ 1993  python manage.py shell
+ 1994  nano schools/models.py
+ 1995  less schools/views.py 
+ 1996  ls
+ 1997  nano reachmi 
+ 1998  history
+ 1999  python manage.py runserver
+ 2000  python manage.py runserver 0.0.0.0:8000
+ 2001  history > history-20170723
